@@ -4,5 +4,4 @@ dist
 build
 package-lock.json
 yarn.lock
-.npmignore
 yarn-error.log
